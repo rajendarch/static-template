@@ -1,0 +1,13 @@
+span {
+  color: red;
+}
+.special {
+  font-weight: bold;
+}
+.special1 {
+  font-size: red;
+}
+
+#veryspecial {
+  font-style: italic;
+}
